@@ -1,0 +1,46 @@
+
+
+#container{
+    width: 1300px;
+    height: 900px;
+    margin: auto;
+    border: 10px solid blue;
+    
+}
+
+#header img{
+    margin: 50px 30px;
+    width: 250px;
+    
+}
+
+#jumbotron img{
+    float: right;
+    width: 60%;
+    margin: 20px 50px;
+    
+}
+
+#formulir{
+    width: 40%;
+    
+}
+
+#formulir input{
+    margin-left: 70px;
+    padding: 5px 100px 5px 10px;
+    margin-bottom: 5px;
+}
+
+#formulir label{
+    padding-left: 70px;
+    font-size: 14px;
+}
+
+#footer{
+    background-color: blue;
+    color: white;
+    margin-top: 330px;
+    padding: 5px ;
+}
+
