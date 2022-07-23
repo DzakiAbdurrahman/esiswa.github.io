@@ -37,10 +37,20 @@
     font-size: 14px;
 }
 
+.tombol{
+    margin-left: 70px;
+}
+
+.tombol a{
+    color: white;
+    background: blue;
+    padding: 10px;
+    text-decoration: none;
+}
+
 #footer{
     background-color: blue;
     color: white;
-    margin-top: 330px;
+    margin-top: 300px;
     padding: 5px ;
 }
-
